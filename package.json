@@ -1,0 +1,11 @@
+{
+  "name": "new-eden-faces",
+  "version": "1.0.0",
+  "description": "http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
